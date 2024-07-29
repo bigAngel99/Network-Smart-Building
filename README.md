@@ -7,8 +7,13 @@ This repository implements a python security system that uses OpenCV and a basic
 - Arming & disarming the system
 - Camera activity logging
 - Access control via IP using Advanced IP Scanner
-- Using API to interact
+- Using Flask API to interact
 
+## Technology
++ Python, JavaScript, HTML, CSS
++ NodeJS
++ Google Cloud, Twilio
++ IP Advance Scanner
 ## Installation
 
 Before starting make sure you have the following installed:
