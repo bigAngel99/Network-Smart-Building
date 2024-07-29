@@ -2,11 +2,11 @@
 
 This repo implements a python security system that uses OpenCV and a basic person detection model to record and save video. It features the following:
 
-- Person Detection
-- Video Storage (Google Cloud Object Storage)
-- Text Notifications
-- Arming & Disarming The System
-- Activity Logs
+- Person Detection.
+- Video Storage (Google Cloud Object Storage).
+- Text Notifications.
+- Arming & Disarming The System.
+- Activity Logs.
 
 ## Installation
 
